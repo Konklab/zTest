@@ -6,4 +6,6 @@ do they just show up in gihub desktop when I open it?
 
 ok, all tested. now let’s merge it into the master.
 
+hmm, merge to master failed. 
+let’s make a new branch
 
