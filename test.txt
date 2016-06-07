@@ -1,5 +1,9 @@
 This is a test to see how git hub is working
 6/6 branch 1 - added some text
 how come this isn't showing up?
-what if I make changes here… do they just show up in gihub desktop when I open it?
+what if I make changes here… 
+do they just show up in gihub desktop when I open it?
+
+ok, all tested. now let’s merge it into the master.
+
 
